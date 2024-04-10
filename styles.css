@@ -1,0 +1,53 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+/*  Dark mode  */ 
+
+body {
+	color: #373737;
+	background: white;
+}
+
+.dark-mode {
+	color: white;
+	background: #373737;
+}
+
+
+
+table.spisok {
+    margin-left: auto;
+    margin-right: auto 
+}
+
+button.nomera {
+    background-color: #ffffff;
+    color: #ffffff;
+}
+
+.btn {
+	margin-top: 25px;
+	padding: 10px 20px;
+	background: rgb(38, 121, 216);
+	border: none;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	color: white;
+	outline: none;
+	cursor: pointer;
+}
+
+.ostalnie {
+	margin-top: 25px;
+	padding: 10px 20px;
+	background: rgb(38, 121, 216);
+	border: none;
+	border: 1px solid #ccc;
+	text-decoration: none;
+	color: white;
+	outline: none;
+	cursor: pointer;
+}     
